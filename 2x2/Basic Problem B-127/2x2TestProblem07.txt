@@ -1,0 +1,78 @@
+2x2 Test Problem 07
+2x2
+1
+A
+	A
+		shape:square
+		fill:no
+		angle:45
+	B
+		shape:circle
+		fill:yes
+		angle:0
+		inside:A
+B
+	C
+		shape:square
+		fill:no
+		angle:45
+C
+	D
+		shape:square
+		fill:no
+		angle:0
+	E
+		shape:circle
+		fill:yes
+		angle:0
+		inside:D
+1
+	F
+		shape:square
+		fill:no
+		angle:0
+2
+	G
+		shape:square
+		fill:no
+		angle:45
+3
+	H
+		shape:circle
+		fill:yes
+		angle:0
+4
+	I
+		shape:square
+		fill:no
+		angle:0
+	J
+		shape:circle
+		fill:yes
+		angle:0
+		inside:I
+5
+	K
+		shape:square
+		fill:no
+		angle:45
+	L
+		shape:circle
+		fill:yes
+		angle:0
+		inside:K
+6
+	M
+		shape:square
+		fill:no
+		angle:45
+	N
+		shape:square
+		fill:no
+		angle:0
+		overlaps:M
+	O
+		shape:circle
+		fill:yes
+		angle:0
+		inside:M,N

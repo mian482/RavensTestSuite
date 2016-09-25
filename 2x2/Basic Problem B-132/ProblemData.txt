@@ -1,0 +1,58 @@
+2x2
+true
+true
+A
+	A
+		shape:square
+		fill:no
+		angle:45
+B
+	B
+		shape:circle
+		fill:no
+		angle:0
+C
+	C
+		shape:square
+		fill:no
+		angle:0
+1
+	D
+		shape:circle
+		fill:no
+		angle:0
+		overlaps:E
+	E
+		shape:square
+		fill:no
+		angle:0
+2
+	F
+		shape:square
+		fill:yes
+		angle:0
+3
+	G
+		shape:square
+		fill:no
+		angle:45
+4
+	H
+		shape:circle
+		fill:no
+		angle:0
+		overlaps:I
+	I
+		shape:square
+		fill:no
+		angle:45
+5
+	J
+		shape:circle
+		fill:yes
+		angle:0
+6
+	K
+		shape:circle
+		fill:no
+		angle:0

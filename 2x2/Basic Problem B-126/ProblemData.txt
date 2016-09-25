@@ -1,0 +1,93 @@
+2x2
+true
+true
+A
+	A
+		shape:right-triangle
+		fill:yes
+		angle:270
+	B
+		shape:right-triangle
+		fill:no
+		above:A
+		angle:90
+B
+	C
+		shape:right-triangle
+		fill:no
+		angle:0
+	D
+		shape:right-triangle
+		fill:no
+		above:C
+		angle:180
+C
+	E
+		shape:right-triangle
+		fill:yes
+		angle:0
+	F
+		shape:right-triangle
+		fill:no
+		above:E
+		angle:180
+1
+	G
+		shape:right-triangle
+		fill:yes
+		angle:0
+	H
+		shape:right-triangle
+		fill:no
+		above:G
+		angle:180
+2
+	I
+		shape:right-triangle
+		fill:no
+		angle:270
+	J
+		shape:right-triangle
+		fill:yes
+		above:I
+		angle:90
+3
+	K
+		shape:right-triangle
+		fill:no
+		angle:0
+	L
+		shape:right-triangle
+		fill:no
+		above:K
+		angle:180
+4
+	M
+		shape:right-triangle
+		fill:yes
+		angle:270
+	N
+		shape:right-triangle
+		fill:no
+		above:M
+		angle:90
+5
+	O
+		shape:right-triangle
+		fill:yes
+		angle:180
+		above:P
+	P
+		shape:right-triangle
+		fill:no
+		angle:0
+6
+	Q
+		shape:right-triangle
+		fill:no
+		angle:270
+	R
+		shape:right-triangle
+		fill:no
+		above:Q
+		angle:90

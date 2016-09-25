@@ -1,0 +1,50 @@
+2x2 Test Problem 11
+2x2
+5
+A
+B
+	A
+		shape:plus
+		fill:yes
+		angle:45
+C
+	B
+		shape:square
+		fill:no
+		angle:0
+1
+2
+	C
+		shape:plus
+		fill:yes
+		angle:0
+3
+	D
+		shape:square
+		fill:no
+		angle:0
+4
+	E
+		shape:square
+		fill:no
+		angle:0
+	F
+		shape:plus
+		fill:yes
+		angle:0
+		inside:E
+5
+	G
+		shape:square
+		fill:no
+		angle:0
+	H
+		shape:plus
+		fill:yes
+		angle:45
+		inside:G
+6
+	I
+		shape:square
+		fill:no
+		angle:45

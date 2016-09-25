@@ -1,0 +1,67 @@
+2x2
+true
+true
+A
+	A
+		shape:square
+		size:large
+	B
+		shape:square
+		size:medium
+		inside:A
+	C
+		shape:square
+		size:small
+		inside:A,B
+B
+	D
+		shape:square
+		size:medium
+	E
+		shape:square
+		size:small
+		inside:D
+C
+	F
+		shape:square
+		size:large
+	G
+		shape:square
+		size:small
+		inside:F
+1
+	H
+		shape:square
+		size:medium
+	I
+		shape:square
+		size:small
+		inside:H
+2
+	J
+		shape:square
+		size:large
+	K
+		shape:square
+		size:small
+		inside:J
+3
+	L
+		shape:square
+		size:large
+	M
+		shape:square
+		size:medium
+		inside:L
+4
+	N
+		shape:square
+		size:small
+5
+	O
+		shape:square
+		size:medium
+6
+	P
+		shape:square
+		size:large

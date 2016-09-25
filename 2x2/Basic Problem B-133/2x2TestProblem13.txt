@@ -1,0 +1,63 @@
+2x2 Test Problem 13
+2x2
+4
+A
+	A
+		shape:triangle
+		fill:no
+	B
+		shape:triangle
+		fill:no
+		left-of:A
+B
+	C
+		shape:right-triangle
+		fill:no
+	D
+		shape:right-triangle
+		fill:no
+		left-of:D
+C
+	E
+		shape:triangle
+		fill:no
+1
+	F
+		shape:triangle
+		fill:no
+2
+	G
+		shape:triangle
+		fill:no
+	H
+		shape:triangle
+		fill:no
+		left-of:H
+3
+	I
+		shape:triangle
+		fill:no
+		left-of:J
+	J
+		shape:right-triangle
+		fill:no
+4
+	K
+		shape:right-triangle
+		fill:no
+5
+	L
+		shape:right-triangle
+		fill:no
+		left-of:L
+	M
+		shape:right-triangle
+		fill:no
+6
+	N
+		shape:right-triangle
+		fill:no
+		left-of:O
+	O
+		shape:triangle
+		fill:no
