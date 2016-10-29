@@ -1,0 +1,59 @@
+3x3
+true
+true
+A
+	Z
+		shape:square
+		fill:top-left
+B
+	Z
+		shape:square
+		fill:top-right
+C
+	Z
+		shape:square
+		fill:bottom-right
+D
+	Z
+		shape:square
+		fill:top-left,top-right
+E
+	Z
+		shape:square
+		fill:top-right,bottom-right
+F
+	Z
+		shape:square
+		fill:bottom-left,bottom-right
+G
+	Z
+		shape:square
+		fill:top-left,top-right,bottom-right
+H
+	Z
+		shape:square
+		fill:top-right,bottom-left,bottom-right
+1
+	Z
+		shape:square
+		fill:top-left,top-right,bottom-left
+2
+	Z
+		shape:square
+		fill:yes
+3
+	Z
+		shape:square
+		fill:top-left,bottom-left,bottom-right
+4
+	Z
+		shape:square
+		fill:top-right,bottom-left
+5
+	Z
+		shape:square
+		fill:top-left,bottom-left
+6
+	Z
+		shape:square
+		fill:bottom-left

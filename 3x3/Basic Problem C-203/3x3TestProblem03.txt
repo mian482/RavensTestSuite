@@ -1,0 +1,59 @@
+3x3 Test Problem 03
+3x3
+4
+A
+	A
+		shape:circle
+		fill:no
+B
+	B
+		shape:triangle
+		fill:no
+C
+	C
+		shape:square
+		fill:no
+D
+	D
+		shape:square
+		fill:no
+E
+	E
+		shape:circle
+		fill:no
+F
+	F
+		shape:triangle
+		fill:no
+G
+	G
+		shape:triangle
+		fill:no
+H
+	H
+		shape:square
+		fill:no
+1
+	I
+		shape:circle
+		fill:yes
+2
+	J
+		shape:square
+		fill:yes
+3
+	K
+		shape:triangle
+		fill:yes
+4
+	L
+		shape:circle
+		fill:no
+5
+	M
+		shape:square
+		fill:no
+6
+	N
+		shape:triangle
+		fill:no

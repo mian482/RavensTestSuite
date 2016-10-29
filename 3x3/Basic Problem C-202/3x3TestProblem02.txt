@@ -1,0 +1,73 @@
+3x3 Test Problem 02
+3x3
+2
+A
+	A
+		shape:triangle
+		fill:yes
+		size:large
+B
+	B
+		shape:triangle
+		fill:yes
+		size:large
+C
+	C
+		shape:triangle
+		fill:yes
+		size:large
+D
+	D
+		shape:square
+		fill:yes
+		size:large
+E
+	E
+		shape:square
+		fill:yes
+		size:large
+F
+	F
+		shape:square
+		fill:yes
+		size:large
+G
+	G
+		shape:circle
+		fill:yes
+		size:large
+H
+	H
+		shape:circle
+		fill:yes
+		size:large
+1
+	I
+		shape:triangle
+		fill:yes
+		size:large
+2
+	J
+		shape:circle
+		fill:yes
+		size:large
+3
+	K
+		shape:square
+		fill:yes
+		size:large
+4
+	L
+		shape:triangle
+		fill:no
+		size:large
+5
+	M
+		shape:circle
+		fill:no
+		size:large
+6
+	N
+		shape:square
+		fill:no
+		size:large

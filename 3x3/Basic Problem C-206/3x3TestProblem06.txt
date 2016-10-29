@@ -1,0 +1,168 @@
+3x3 Test Problem 06
+3x3
+6
+A
+	A
+		shape:square
+		fill:no
+B
+	B
+		shape:square
+		fill:no
+	C
+		shape:square
+		fill:no
+		left-of:B
+C
+	D
+		shape:square
+		fill:no
+	E
+		shape:square
+		fill:no
+		left-of:D
+	F
+		shape:square
+		fill:no
+		left-of:D,E
+D
+	G
+		shape:square
+		fill:no
+	H
+		shape:square
+		fill:no
+		left-of:G
+E
+	I
+		shape:square
+		fill:no
+	J
+		shape:square
+		fill:no
+		left-of:I
+	K
+		shape:square
+		fill:no
+		left-of:I,J
+F
+	L
+		shape:square
+		fill:no
+	M
+		shape:square
+		fill:no
+		left-of:L
+	N
+		shape:square
+		fill:no
+		left-of:L,M
+	O
+		shape:square
+		fill:no
+		left-of:L,M,N
+G
+	P
+		shape:square
+		fill:no
+	Q
+		shape:square
+		fill:no
+		left-of:P
+	R
+		shape:square
+		fill:no
+		left-of:P,Q
+H
+	S
+		shape:square
+		fill:no
+	T
+		shape:square
+		fill:no
+		left-of:S
+	U
+		shape:square
+		fill:no
+		left-of:S,T
+	V
+		shape:square
+		fill:no
+		left-of:S,T,U
+1
+2
+	X
+		shape:square
+		fill:no
+	Y
+		shape:square
+		fill:no
+		left-of:X
+3
+	Z
+		shape:square
+		fill:no
+	1
+		shape:square
+		fill:no
+		left-of:Z
+	2
+		shape:square
+		fill:no
+		left-of:Z,1
+4
+	3
+		shape:square
+		fill:no
+	4
+		shape:square
+		fill:no
+		left-of:3
+	5
+		shape:square
+		fill:no
+		left-of:3,4
+	6
+		shape:square
+		fill:no
+		left-of:3,4,5
+5
+	7
+		shape:square
+		fill:no
+	8
+		shape:square
+		fill:no
+		above:7
+	9
+		shape:square
+		fill:no
+		above:7,8
+	0
+		shape:square
+		fill:no
+		above:7,8,9
+	!
+		shape:square
+		fill:no
+		above:7,8,9,0
+6
+	@
+		shape:square
+		fill:no
+	#
+		shape:square
+		fill:no
+		left-of:@
+	$
+		shape:square
+		fill:no
+		left-of:@,$
+	%
+		shape:square
+		fill:no
+		left-of:@,#,$
+	^
+		shape:square
+		fill:no
+		left-of:@,#,$,%

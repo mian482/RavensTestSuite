@@ -1,0 +1,115 @@
+3x3
+true
+true
+A
+	A
+		shape:hexagon
+		fill:no
+	B
+		shape:triangle
+		fill:no
+		inside:A
+B
+	C
+		shape:hexagon
+		fill:no
+	D
+		shape:plus
+		fill:no
+		inside:C
+C
+	E
+		shape:hexagon
+		fill:no
+	F
+		shape:Pac-Man
+		fill:no
+		inside:E
+D
+	G
+		shape:heptagon
+		fill:no
+	H
+		shape:triangle
+		fill:no
+		inside:G
+E
+	I
+		shape:heptagon
+		fill:no
+	J
+		shape:plus
+		fill:no
+		inside:I
+F
+	K
+		shape:heptagon
+		fill:no
+	L
+		shape:Pac-Man
+		fill:no
+		inside:K
+G
+	M
+		shape:pentagon
+		fill:no
+	N
+		shape:triangle
+		fill:no
+		inside:M
+H
+	O
+		shape:pentagon
+		fill:no
+	P
+		shape:plus
+		fill:no
+		inside:O
+1
+	Q
+		shape:pentagon
+		fill:no
+	R
+		shape:Pac-Man
+		fill:no
+		inside:Q
+2
+	S
+		shape:pentagon
+		fill:no
+	T
+		shape:triangle
+		fill:no
+		inside:S
+3
+	U
+		shape:pentagon
+		fill:no
+	V
+		shape:plus
+		fill:no
+		inside:U
+4
+	W
+		shape:pentagon
+		fill:no
+	X
+		shape:Pac-Man
+		fill:yes
+		inside:W
+5
+	Y
+		shape:pentagon
+		fill:no
+	Z
+		shape:triangle
+		fill:yes
+		inside:Y
+6
+	1
+		shape:pentagon
+		fill:no
+	2
+		shape:plus
+		fill:yes
+		inside:1

@@ -1,0 +1,59 @@
+3x3
+true
+true
+A
+	A
+		shape:square
+		fill:yes
+B
+	B
+		shape:square
+		fill:yes
+C
+	C
+		shape:square
+		fill:yes
+D
+	D
+		shape:square
+		fill:yes
+E
+	E
+		shape:square
+		fill:yes
+F
+	F
+		shape:square
+		fill:yes
+G
+	G
+		shape:square
+		fill:yes
+H
+	H
+		shape:square
+		fill:yes
+1
+	I
+		shape:plus
+		fill:yes
+2
+	J
+		shape:circle
+		fill:yes
+3
+	K
+		shape:square
+		fill:yes
+4
+	L
+		shape:octagon
+		fill:yes
+5
+	M
+		shape:triangle
+		fill:yes
+6
+	N
+		shape:Pac-Man
+		fill:yes

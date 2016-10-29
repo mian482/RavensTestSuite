@@ -1,0 +1,73 @@
+3x3
+true
+true
+A
+	A
+		shape:square
+		fill:yes
+		size:large
+B
+	B
+		shape:square
+		fill:yes
+		size:medium
+C
+	C
+		shape:square
+		fill:yes
+		size:small
+D
+	D
+		shape:square
+		fill:yes
+		size:small
+E
+	E
+		shape:square
+		fill:yes
+		size:large
+F
+	F
+		shape:square
+		fill:yes
+		size:medium
+G
+	G
+		shape:square
+		fill:yes
+		size:medium
+H
+	H
+		shape:square
+		fill:yes
+		size:small
+1
+	I
+		shape:square
+		fill:yes
+		size:small
+2
+	J
+		shape:square
+		fill:yes
+		size:medium
+3
+	K
+		shape:circle
+		fill:yes
+		size:large
+4
+	L
+		shape:circle
+		fill:yes
+		size:small
+5
+	M
+		shape:square
+		fill:no
+		size:large
+6
+	N
+		shape:square
+		fill:yes
+		size:large

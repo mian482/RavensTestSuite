@@ -1,0 +1,353 @@
+3x3
+true
+true
+A
+	A
+		shape:circle
+		size:very large
+		fill:no
+	B
+		shape:circle
+		size:large
+		fill:no
+		inside:A
+	C
+		shape:circle
+		size:medium
+		fill:yes
+		inside:A,B
+	D
+		shape:circle
+		size:small
+		fill:no
+		inside:A,B,C
+	E
+		shape:circle
+		size:very small
+		fill:yes
+		inside:A,B,C,D
+B
+	F
+		shape:circle
+		size:very large
+		fill:yes
+	G
+		shape:circle
+		size:large
+		fill:no
+		inside:F
+	H
+		shape:circle
+		size:medium
+		fill:no
+		inside:F,G
+	I
+		shape:circle
+		size:small
+		fill:no
+		inside:F,G,H
+	J
+		shape:circle
+		size:very small
+		fill:no
+		inside:F,G,H,I
+C
+	K
+		shape:circle
+		size:very large
+		fill:no
+	L
+		shape:circle
+		size:large
+		fill:yes
+		inside:K
+	M
+		shape:circle
+		size:medium
+		fill:no
+		inside:K,L
+	N
+		shape:circle
+		size:small
+		fill:yes
+		inside:K,L,M
+	O
+		shape:circle
+		size:very small
+		fill:no
+		inside:K,L,M,N
+D
+	P
+		shape:circle
+		size:very large
+		fill:no
+	Q
+		shape:circle
+		size:large
+		fill:yes
+		inside:P
+	R
+		shape:circle
+		size:medium
+		fill:no
+		inside:P,Q
+	S
+		shape:circle
+		size:small
+		fill:yes
+		inside:P,Q,R
+	T
+		shape:circle
+		size:very small
+		fill:no
+		inside:P,Q,R,S
+E
+	U
+		shape:circle
+		size:very large
+		fill:no
+	V
+		shape:circle
+		size:large
+		fill:no
+		inside:U
+	W
+		shape:circle
+		size:medium
+		fill:yes
+		inside:U,V
+	X
+		shape:circle
+		size:small
+		fill:no
+		inside:U,V,W
+	Y
+		shape:circle
+		size:very small
+		fill:yes
+		inside:U,V,W,X
+F
+	Z
+		shape:circle
+		size:very large
+		fill:yes
+	1
+		shape:circle
+		size:large
+		fill:no
+		inside:Z
+	2
+		shape:circle
+		size:medium
+		fill:no
+		inside:Z,1
+	3
+		shape:circle
+		size:small
+		fill:no
+		inside:Z,1,2
+	4
+		shape:circle
+		size:very small
+		fill:no
+		inside:Z,1,2,3
+G
+	5
+		shape:circle
+		size:very large
+		fill:yes
+	6
+		shape:circle
+		size:large
+		fill:no
+		inside:5
+	7
+		shape:circle
+		size:medium
+		fill:no
+		inside:5,6
+	8
+		shape:circle
+		size:small
+		fill:no
+		inside:5,6,7
+	9
+		shape:circle
+		size:very small
+		fill:no
+		inside:5,6,7,8
+H
+	0
+		shape:circle
+		size:very large
+		fill:no
+	!
+		shape:circle
+		size:large
+		fill:yes
+		inside:0
+	@
+		shape:circle
+		size:medium
+		fill:no
+		inside:0,!
+	#
+		shape:circle
+		size:small
+		fill:yes
+		inside:0,!,@
+	$
+		shape:circle
+		size:very small
+		fill:no
+		inside:0,!,@,#
+1
+	%
+		shape:circle
+		size:very large
+		fill:no
+	^
+		shape:circle
+		size:large
+		fill:no
+		inside:%
+	&
+		shape:circle
+		size:medium
+		fill:yes
+		inside:%,^
+	*
+		shape:circle
+		size:small
+		fill:no
+		inside:%,^,&
+	(
+		shape:circle
+		size:very small
+		fill:yes
+		inside:%,^,&,*
+2
+	)
+		shape:circle
+		size:very large
+		fill:yes
+	-
+		shape:circle
+		size:large
+		fill:no
+		inside:)
+	_
+		shape:circle
+		size:medium
+		fill:yes
+		inside:),-
+	+
+		shape:circle
+		size:small
+		fill:no
+		inside:),-,_
+	=
+		shape:circle
+		size:very small
+		fill:no
+		inside:),-,_,+
+3
+	[
+		shape:circle
+		size:very large
+		fill:no
+	{
+		shape:circle
+		size:large
+		fill:no
+		inside:[
+	]
+		shape:circle
+		size:medium
+		fill:yes
+		inside:[,{
+	}
+		shape:circle
+		size:small
+		fill:no
+		inside:[,{,]
+	;
+		shape:circle
+		size:very small
+		fill:no
+		inside:[,{,],}
+4
+	"
+		shape:circle
+		size:very large
+		fill:yes
+	'
+		shape:circle
+		size:large
+		fill:no
+		inside:"
+	<
+		shape:circle
+		size:medium
+		fill:yes
+		inside:",'
+	>
+		shape:circle
+		size:small
+		fill:no
+		inside:",',<
+	.
+		shape:circle
+		size:very small
+		fill:yes
+		inside:",',<,>
+5
+	?
+		shape:circle
+		size:very large
+		fill:no
+	/
+		shape:circle
+		size:large
+		fill:yes
+		inside:?
+	|
+		shape:circle
+		size:medium
+		fill:no
+		inside:?,/
+	\
+		shape:circle
+		size:small
+		fill:yes
+		inside:?,/,|
+	`
+		shape:circle
+		size:very small
+		fill:no
+		inside:?,/,|,\
+6
+	~
+		shape:circle
+		size:very large
+		fill:no
+	a
+		shape:circle
+		size:large
+		fill:no
+		inside:~
+	b
+		shape:circle
+		size:medium
+		fill:no
+		inside:~,a
+	c
+		shape:circle
+		size:small
+		fill:no
+		inside:~,a,b
+	d
+		shape:circle
+		size:very small
+		fill:yes
+		inside:~,a,b,c

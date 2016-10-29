@@ -1,0 +1,105 @@
+3x3
+true
+true
+A
+	A
+		shape:circle
+	B
+		shape:circle
+		above:A,C
+	C
+		shape:circle
+		left-of:A,B
+	D
+		shape:circle
+		left-of:A,B
+		above:A,C
+B
+	E
+		shape:square
+		above:F
+	F
+		shape:square
+		left-of:E
+	G
+		shape:square
+		left-of:E
+		above:F
+C
+	H
+		shape:circle
+	I
+		shape:circle
+		left-of:H
+D
+	J
+		shape:square
+	K
+		shape:square
+		above:J
+	L
+		shape:square
+		left-of:J,K
+E
+	M
+		shape:circle
+		above:N
+	N
+		shape:circle
+		left-of:M
+F
+	O
+		shape:square
+G
+	P
+		shape:circle
+	Q
+		shape:circle
+		left-of:P
+H
+	R
+		shape:square
+1
+	2
+		shape:circle
+	3
+		shape:circle
+		above:2,4
+	4
+		shape:circle
+		left-of:2,3
+	5
+		shape:circle
+		left-of:2,3
+		above:2,4
+2
+	S
+		shape:circle
+3
+	T
+		shape:square
+		above:U
+	U
+		shape:square
+		left-of:T
+4
+	V
+		shape:circle
+	W
+		shape:circle
+		above:V,X
+	X
+		shape:circle
+		left-of:V,W
+5
+	Y
+		shape:square
+		above:Z
+	Z
+		shape:square
+		left-of:Y
+	1
+		shape:square
+		above:Z
+		left-of:Y
+6
